@@ -1,5 +1,6 @@
 # python_date_picker
-python3 date picker module for tkinter
+Python3 date picker module for tkinter.
+Description:
 
 <ul>
   <li><a href="http://www.slawomirkwiatkowski.pl/index.php/en/2020/01/17/date-picker-for-tkinter/">Article [EN]</a></li>
